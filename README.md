@@ -1,5 +1,5 @@
 # TeamShrekCapstone
 
-This is a sweet ReadMe
+This is a sweet ReadMe - Martin Brock
 
 Commit check-in -Chris
